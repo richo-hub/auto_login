@@ -1,4 +1,4 @@
-#Auto Login (Nerist Wifi)
+#Auto Login
 
 A chrome extension build for the NERISTIAN which automate the process of wifi authentication of NERIST.The frontend is build by ###richo-hub and backend by ###nurexcoder
 
